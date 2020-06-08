@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+.ok-slider .slider-img {
+    width: 400px;
+}
+
+button {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    margin: 0px 15px;
+}
+
+button:disabled img{
+    opacity: 0.5;
+}
+
+.ok-slider {
+    width: 550px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
